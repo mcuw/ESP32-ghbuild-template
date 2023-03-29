@@ -38,7 +38,7 @@ You can write your changes in the [CHANGELOG.md](CHANGELOG.md) before you create
 
 ## Example Release
 
-see [Release v0.3.0](https://github.com/mcuw/esp-ghbuild-template/releases/tag/v0.3.0) on the right sidemenu.
+see [Releases](https://github.com/mcuw/esp-ghbuild-template/releases) on the right sidemenu.
 
 ## Usage
 
