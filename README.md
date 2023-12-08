@@ -30,10 +30,14 @@ This is required to publish several firmware names in the github artifacts of a 
 
 ## Get Started
 
-1. Create a new git repository and use this [repository](https://github.com/mcuw/ESP32-ghbuild-template) as its template
-2. Implement your application in the [src/main.cpp](src/main.cpp)
-3. Comment your new change in the [CHANGELOG.md](CHANGELOG.md) file
-4. Push your changes
+<img src="doc/create-new-project-with-template.png" />
+
+1. Login to github
+
+2. Click on `Use this template` to create a new git repository
+3. Implement your application in the [src/main.cpp](src/main.cpp)
+4. Comment your new change in the [CHANGELOG.md](CHANGELOG.md) file
+5. Push your changes
 
 ```sh
 git add .
@@ -57,7 +61,7 @@ git tag v1.0.0
 git push origin v1.0.0
 ```
 
-6. You can find your firmwares under [Releases](releases)
+6. You can find your firmwares under [Releases](releases) after the CI build finished
 
 ## CHANGELOG
 
