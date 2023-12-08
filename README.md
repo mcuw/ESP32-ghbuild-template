@@ -61,7 +61,7 @@ git tag v1.0.0
 git push origin v1.0.0
 ```
 
-6. You can find your firmwares under [Releases](releases) after the CI build finished
+6. You can find your firmwares under `Releases` after the CI build finished
 
 ## CHANGELOG
 
