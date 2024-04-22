@@ -77,6 +77,13 @@ You can reduce and adapt your required boards in the [platformio.ini](platformio
 
 Update the [CHANGELOG.md](CHANGELOG.md) file before you are creating a new release. By creating a new git tag you trigger a new release which generate for you the firmwares.
 
+## Supported boards
+
+- ESP32 (buy with affiliate link: [LILYGO T-Beam](https://s.click.aliexpress.com/e/_DBzslDV) with LoRA, lolin32, lolin D32 pro)
+- ESP32 S2
+- ESP32 S3 (buy with affiliate link: [LILYGO T-Display S3](https://s.click.aliexpress.com/e/_DBmOMkn), [LILYGO T-Display-S3 AMOLED](https://s.click.aliexpress.com/e/_DmboYpZ), [LILYGO T-Display-S3 Touch](https://s.click.aliexpress.com/e/_DCBgPlV), [LILYGO T-Display S3 Long](https://s.click.aliexpress.com/e/_Dl6UVMx))
+- ESP32 C6 with WiFi 6 and BT-5 LE (buy with affiliate link: [UICPAL nanoESP32-C6](https://s.click.aliexpress.com/e/_DdZ83IB) with up to 16MB flash, [ESP32-C6](https://s.click.aliexpress.com/e/_DeLjVMb) with 4MB flash and W2812 RGB LED)
+
 ## Disclaimer
 
 Contribution and help ... if you find an issue or wants to contribute then please do not hesitate to create a merge request or an issue.
