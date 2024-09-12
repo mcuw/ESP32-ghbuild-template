@@ -3,10 +3,7 @@ on:
     tags-ignore:
       - "**"
   pull_request:
-    branches:
-      - "*"
-    branches-ignore:
-      - main
+    branches: [main]
 jobs:
   build:
     name: Build
