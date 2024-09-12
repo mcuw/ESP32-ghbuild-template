@@ -9,7 +9,8 @@
     "extra_flags": [
       "-DARDUINO_ESP32C6_DEV",
       "-DARDUINO_USB_MODE=1",
-      "-DARDUINO_USB_CDC_ON_BOOT=1"
+      "-DARDUINO_USB_CDC_ON_BOOT=1",
+      "-D BOARD_HAS_PSRAM=1"
     ]
   },
   "connectivity": [
