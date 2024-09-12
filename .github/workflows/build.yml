@@ -3,7 +3,8 @@ on:
     tags-ignore:
       - "**"
   pull_request:
-    branches: [main]
+    branches-ignore:
+      - main
 jobs:
   build:
     name: Build
@@ -17,7 +18,7 @@ jobs:
           python-version: "3.x"
           architecture: "x64"
       - name: Install PlatformIO
-        run: python3 -m pip install platformio==6.1.13
+        run: python3 -m pip install platformio==6.1.15
       - name: Build firmwares
         run: FIRMWARE_VERSION=main platformio run
       - name: Archive
