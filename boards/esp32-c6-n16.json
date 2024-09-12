@@ -7,9 +7,10 @@
     "mcu": "esp32c6",
     "variant": "esp32c6",
     "extra_flags": [
-      "-DARDUINO_ESP32S3_DEV",
-      "-DARDUINO_USB_MODE=1",
-      "-DARDUINO_USB_CDC_ON_BOOT=1"
+      "-D ARDUINO_ESP32S3_DEV",
+      "-D ARDUINO_USB_MODE=1",
+      "-D ARDUINO_USB_CDC_ON_BOOT=1",
+      "-D BOARD_HAS_PSRAM=1"
     ]
   },
   "connectivity": [
