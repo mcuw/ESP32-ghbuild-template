@@ -94,6 +94,8 @@ Buy on AliExpress (affiliate links) ...
   - [LilyGo T-Watch S3](https://s.click.aliexpress.com/e/_DEZVvH1)
   - [LilyGo T-CameraPlus ESP32-S3](https://s.click.aliexpress.com/e/_DkytBeT)
   - [LilyGo T-RGB](https://s.click.aliexpress.com/e/_Dem6i0b)
+  - [LilyGo T-Deck](https://s.click.aliexpress.com/e/_DBPnZmL)
+  - [LilyGo T-Deck Plus](https://s.click.aliexpress.com/e/_DDeskaP)
 
 - ESP32 C6 with WiFi 6 and BT-5 LE
   - [UICPAL nanoESP32-C6](https://s.click.aliexpress.com/e/_DdZ83IB) with up to 16MB flash
