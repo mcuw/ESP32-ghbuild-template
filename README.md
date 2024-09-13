@@ -79,10 +79,25 @@ Update the [CHANGELOG.md](CHANGELOG.md) file before you are creating a new relea
 
 ## Supported boards
 
-- ESP32 (buy with affiliate link: [LILYGO T-Beam](https://s.click.aliexpress.com/e/_DBzslDV) with LoRA, lolin32, lolin D32 pro)
+Buy on AliExpress (affiliate links) ...
+
+- ESP32
+  - [LILYGO T-Beam](https://s.click.aliexpress.com/e/_DBzslDV) with LoRA
+  - lolin32
+  - lolin D32 pro
 - ESP32 S2
-- ESP32 S3 (buy with affiliate link: [LILYGO T-Display S3](https://s.click.aliexpress.com/e/_DBmOMkn), [LILYGO T-Display-S3 AMOLED](https://s.click.aliexpress.com/e/_DmboYpZ), [LILYGO T-Display-S3 Touch](https://s.click.aliexpress.com/e/_DCBgPlV), [LILYGO T-Display S3 Long](https://s.click.aliexpress.com/e/_Dl6UVMx)), [LilyGo T-Watch S3](https://s.click.aliexpress.com/e/_DEZVvH1), [LilyGo T-CameraPlus ESP32-S3](https://s.click.aliexpress.com/e/_DkytBeT)
-- ESP32 C6 with WiFi 6 and BT-5 LE (buy with affiliate link: [UICPAL nanoESP32-C6](https://s.click.aliexpress.com/e/_DdZ83IB) with up to 16MB flash, [ESP32-C6](https://s.click.aliexpress.com/e/_DeLjVMb) with 4MB flash and W2812 RGB LED)
+- ESP32 S3
+  - [LILYGO T-Display S3](https://s.click.aliexpress.com/e/_DBmOMkn)
+  - [LILYGO T-Display-S3 AMOLED](https://s.click.aliexpress.com/e/_DmboYpZ)
+  - [LILYGO T-Display-S3 Touch](https://s.click.aliexpress.com/e/_DCBgPlV)
+  - [LILYGO T-Display S3 Long](https://s.click.aliexpress.com/e/_Dl6UVMx))
+  - [LilyGo T-Watch S3](https://s.click.aliexpress.com/e/_DEZVvH1)
+  - [LilyGo T-CameraPlus ESP32-S3](https://s.click.aliexpress.com/e/_DkytBeT)
+  - [LilyGo T-RGB](https://s.click.aliexpress.com/e/_Dem6i0b)
+
+- ESP32 C6 with WiFi 6 and BT-5 LE
+  - [UICPAL nanoESP32-C6](https://s.click.aliexpress.com/e/_DdZ83IB) with up to 16MB flash
+  - [ESP32-C6](https://s.click.aliexpress.com/e/_DeLjVMb) with 4MB flash and W2812 RGB LED
 
 ## Disclaimer
 
