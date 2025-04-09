@@ -98,11 +98,12 @@ Buy on AliExpress (affiliate links) ...
   - [LilyGo T-Deck Plus](https://s.click.aliexpress.com/e/_DDeskaP)
 
 - ESP32 C6 with WiFi 6 and BT-5 LE
-  - [UICPAL nanoESP32-C6](https://s.click.aliexpress.com/e/_DdZ83IB) with up to 16MB flash
+  - [NanoESP32-C6](https://s.click.aliexpress.com/e/_ooBtUih) with 16MB flash
   - [ESP32-C6](https://s.click.aliexpress.com/e/_DeLjVMb) with 4MB flash and W2812 RGB LED
+  - [LILYGO T-QT C6](https://lilygo.cc/products/t-qt-c6) with 4 MB flash, touch display, 6-Axis Sensor
 
 ## Disclaimer
 
-Contribution and help ... if you find an issue or wants to contribute then please do not hesitate to create a merge request or an issue.
+Contribution and help - if you find an issue or wants to contribute then please do not hesitate to create a pull request or an issue.
 
 We provide our build template as is, and we make no promises or guarantees about this code.
