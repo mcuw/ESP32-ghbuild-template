@@ -100,7 +100,7 @@ Buy on AliExpress (affiliate links) ...
 - ESP32 C6 with WiFi 6 and BT-5 LE
   - [NanoESP32-C6](https://s.click.aliexpress.com/e/_ooBtUih) with 16MB flash
   - [ESP32-C6](https://s.click.aliexpress.com/e/_DeLjVMb) with 4MB flash and W2812 RGB LED
-  - [LILYGO T-QT C6](https://lilygo.cc/products/t-qt-c6) with 4 MB flash, touch display, 6-Axis Sensor
+  - [LILYGO T-QT C6](https://github.com/mcuw/esp32-t-qt-c6-sdk) with 4 MB flash, touch display, 6-Axis Sensor
 
 ## Disclaimer
 
