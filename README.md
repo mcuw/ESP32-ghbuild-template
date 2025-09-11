@@ -4,6 +4,12 @@
 
 This is a project template to create microcontroller apps with automatized firmware builds for [esp32](https://www.espressif.com/en/products/socs/esp32), [esp32s2](https://www.espressif.com/en/products/socs/esp32-s2) and [esp32s3](https://www.espressif.com/en/products/socs/esp32-s3) microcontroller boards. It uses for that [GitHub Actions](https://github.com/features/actions) and [platformio](https://platformio.org/). Use this repository as a template for your own esp32 projects.
 
+## Features 
+
+- Uses Platformio v6.1.18
+- CI buils multiple firmwares on git tag push
+- Example code
+
 ## Requirements
 
 - [GitHub Actions](https://github.com/features/actions)
