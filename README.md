@@ -4,6 +4,12 @@
 
 This is a project template to create microcontroller apps with automatized firmware builds for [esp32](https://www.espressif.com/en/products/socs/esp32), [esp32s2](https://www.espressif.com/en/products/socs/esp32-s2) and [esp32s3](https://www.espressif.com/en/products/socs/esp32-s3) microcontroller boards. It uses for that [GitHub Actions](https://github.com/features/actions) and [platformio](https://platformio.org/). Use this repository as a template for your own esp32 projects.
 
+## Features 
+
+- Uses Platformio v6.1.18
+- CI buils multiple firmwares on git tag push
+- Example code
+
 ## Requirements
 
 - [GitHub Actions](https://github.com/features/actions)
@@ -90,7 +96,7 @@ Buy on AliExpress (affiliate links) ...
   - [LILYGO T-Display S3](https://s.click.aliexpress.com/e/_DBmOMkn)
   - [LILYGO T-Display-S3 AMOLED](https://s.click.aliexpress.com/e/_DmboYpZ)
   - [LILYGO T-Display-S3 Touch](https://s.click.aliexpress.com/e/_DCBgPlV)
-  - [LILYGO T-Display S3 Long](https://s.click.aliexpress.com/e/_Dl6UVMx))
+  - [LILYGO T-Display S3 Long](https://s.click.aliexpress.com/e/_Dl6UVMx)
   - [LilyGo T-Watch S3](https://s.click.aliexpress.com/e/_DEZVvH1)
   - [LilyGo T-CameraPlus ESP32-S3](https://s.click.aliexpress.com/e/_DkytBeT)
   - [LilyGo T-RGB](https://s.click.aliexpress.com/e/_Dem6i0b)
