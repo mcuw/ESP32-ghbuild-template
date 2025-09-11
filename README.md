@@ -90,7 +90,7 @@ Buy on AliExpress (affiliate links) ...
   - [LILYGO T-Display S3](https://s.click.aliexpress.com/e/_DBmOMkn)
   - [LILYGO T-Display-S3 AMOLED](https://s.click.aliexpress.com/e/_DmboYpZ)
   - [LILYGO T-Display-S3 Touch](https://s.click.aliexpress.com/e/_DCBgPlV)
-  - [LILYGO T-Display S3 Long](https://s.click.aliexpress.com/e/_Dl6UVMx))
+  - [LILYGO T-Display S3 Long](https://s.click.aliexpress.com/e/_Dl6UVMx)
   - [LilyGo T-Watch S3](https://s.click.aliexpress.com/e/_DEZVvH1)
   - [LilyGo T-CameraPlus ESP32-S3](https://s.click.aliexpress.com/e/_DkytBeT)
   - [LilyGo T-RGB](https://s.click.aliexpress.com/e/_Dem6i0b)
