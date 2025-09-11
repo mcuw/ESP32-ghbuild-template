@@ -15,7 +15,7 @@ jobs:
           python-version: "3.x"
           architecture: "x64"
       - name: Install PlatformIO
-        run: python3 -m pip install platformio==6.1.19
+        run: python3 -m pip install platformio==6.1.18
       - name: Build firmwares
         run: FIRMWARE_VERSION=${{github.ref_name}} platformio run
       - name: Archive
