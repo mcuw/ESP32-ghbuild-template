@@ -14,7 +14,8 @@ jobs:
       - name: Set up python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          # Platform Manager espressif32 55.03.35 does not yet support Python 3.14 as of 2026-01
+          python-version: "3.13"
           architecture: "x64"
       - name: Install PlatformIO
         run: python3 -m pip install platformio==6.1.18
