@@ -7,7 +7,7 @@ This is a project template to create microcontroller apps with automatized firmw
 ## Features 
 
 - Uses Platformio
-- Supports multiple firmwares builds with git actions
+- Supports multiple firmwares builds with github actions
 - Example code
 
 ## Prerequisites
