@@ -106,7 +106,7 @@ Buy on AliExpress (affiliate links) ...
   - [LilyGo T-RGB](https://s.click.aliexpress.com/e/_Dem6i0b)
   - [LilyGo T-Deck](https://s.click.aliexpress.com/e/_DBPnZmL)
   - [LilyGo T-Deck Plus](https://s.click.aliexpress.com/e/_DDeskaP)
-  - [Waveshare ESP32-S3 GEEK](https://www.waveshare.com/esp32-s3-geek.htm)
+  - [Waveshare ESP32-S3 GEEK](https://s.click.aliexpress.com/e/_c35mBhkF)
 
 - ESP32 C6 with WiFi 6 and BT-5 LE
   - [NanoESP32-C6](https://s.click.aliexpress.com/e/_ooBtUih) with 16MB flash
