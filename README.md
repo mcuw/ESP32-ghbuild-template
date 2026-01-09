@@ -107,13 +107,13 @@ Buy on AliExpress (affiliate links) ...
   - [LilyGo T-Deck](https://s.click.aliexpress.com/e/_DBPnZmL)
   - [LilyGo T-Deck Plus](https://s.click.aliexpress.com/e/_DDeskaP)
   - [Waveshare ESP32-S3 GEEK](https://s.click.aliexpress.com/e/_c35mBhkF)
-  - [ESP32-S3 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1) with 16 MB flash, AMOLED touch display, Wi-Fi 5, BT 5 LE, accelerometer, gyroscope
+  - [Waveshare ESP32-S3 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1) with 16 MB flash, AMOLED touch display, Wi-Fi 5, BT 5 LE, accelerometer, gyroscope
 
 - ESP32 C6 with WiFi 6 and BT-5 LE
   - [NanoESP32-C6](https://s.click.aliexpress.com/e/_ooBtUih) with 16MB flash
   - [ESP32-C6](https://s.click.aliexpress.com/e/_DeLjVMb) with 4MB flash and W2812 RGB LED
   - [LILYGO T-QT C6](https://github.com/mcuw/esp32-t-qt-c6-sdk) with 4 MB flash, touch display, 6-Axis Sensor
-  - [ESP32-C6 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1) with 16 MB flash, AMOLED touch display, Wi-Fi 6, BT 5 LE, accelerometer, gyroscope
+  - [Waveshare ESP32-C6 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1) with 16 MB flash, AMOLED touch display, Wi-Fi 6, BT 5 LE, accelerometer, gyroscope
 
 
 ## Disclaimer
