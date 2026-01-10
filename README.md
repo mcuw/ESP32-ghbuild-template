@@ -18,7 +18,7 @@ This is a project template to create microcontroller apps with automatized firmw
 
 ## Get Started
 
-<img src="doc/create-new-project-with-template.png" />
+<img src="https://github.com/mcuw/ESP32-ghbuild-template/blob/main/doc/create-new-project-with-template.png" />
 
 1. Login to github
 
