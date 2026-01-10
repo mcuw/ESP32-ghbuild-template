@@ -89,7 +89,7 @@ Update the [CHANGELOG.md](CHANGELOG.md) file before you are creating a new relea
 
 ## Supported boards
 
-Buy on AliExpress (affiliate links) ...
+If you want to support this project, you can use this affiliate links ...
 
 - ESP32
   - [LilyGo T-Beam (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DBzslDV) with LoRA
