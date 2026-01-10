@@ -92,28 +92,28 @@ Update the [CHANGELOG.md](CHANGELOG.md) file before you are creating a new relea
 Buy on AliExpress (affiliate links) ...
 
 - ESP32
-  - [LILYGO T-Beam](https://s.click.aliexpress.com/e/_DBzslDV) with LoRA
+  - [LILYGO T-Beam (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DBzslDV) with LoRA
   - lolin32
   - lolin D32 pro
 - ESP32 S2
 - ESP32 S3 with dual-core processor
-  - [LILYGO T-Display S3](https://s.click.aliexpress.com/e/_DBmOMkn)
-  - [LILYGO T-Display-S3 AMOLED](https://s.click.aliexpress.com/e/_DmboYpZ)
-  - [LILYGO T-Display-S3 Touch](https://s.click.aliexpress.com/e/_DCBgPlV)
-  - [LILYGO T-Display S3 Long](https://s.click.aliexpress.com/e/_Dl6UVMx)
-  - [LilyGo T-Watch S3](https://s.click.aliexpress.com/e/_DEZVvH1)
-  - [LilyGo T-CameraPlus ESP32-S3](https://s.click.aliexpress.com/e/_DkytBeT)
-  - [LilyGo T-RGB](https://s.click.aliexpress.com/e/_Dem6i0b)
-  - [LilyGo T-Deck](https://s.click.aliexpress.com/e/_DBPnZmL)
-  - [LilyGo T-Deck Plus](https://s.click.aliexpress.com/e/_DDeskaP)
-  - [Waveshare ESP32-S3 GEEK](https://s.click.aliexpress.com/e/_c35mBhkF)
-  - [Waveshare ESP32-S3 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1) with 16 MB flash, AMOLED touch display, Wi-Fi 5, BT 5 LE, accelerometer, gyroscope
+  - [LILYGO T-Display S3 (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DBmOMkn)
+  - [LILYGO T-Display-S3 AMOLED (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DmboYpZ)
+  - [LILYGO T-Display-S3 Touch (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DCBgPlV)
+  - [LILYGO T-Display S3 Long (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_Dl6UVMx)
+  - [LilyGo T-Watch S3 (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DEZVvH1)
+  - [LilyGo T-CameraPlus ESP32-S3 (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DkytBeT)
+  - [LilyGo T-RGB (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_Dem6i0b)
+  - [LilyGo T-Deck (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DBPnZmL)
+  - [LilyGo T-Deck Plus (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DDeskaP)
+  - [Waveshare ESP32-S3 GEEK (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_c35mBhkF)
+  - [Waveshare ESP32-S3 AMOLED 2.06 (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_c34ka7n1) with 16 MB flash, AMOLED touch display, Wi-Fi 5, BT 5 LE, accelerometer, gyroscope
 
 - ESP32 C6 with WiFi 6 and BT-5 LE
-  - [NanoESP32-C6](https://s.click.aliexpress.com/e/_ooBtUih) with 16MB flash
-  - [ESP32-C6](https://s.click.aliexpress.com/e/_DeLjVMb) with 4MB flash and W2812 RGB LED
-  - [LILYGO T-QT C6](https://github.com/mcuw/esp32-t-qt-c6-sdk) with 4 MB flash, touch display, 6-Axis Sensor
-  - [Waveshare ESP32-C6 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1) with 16 MB flash, AMOLED touch display, Wi-Fi 6, BT 5 LE, accelerometer, gyroscope
+  - [NanoESP32-C6 (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_ooBtUih) with 16MB flash
+  - [ESP32-C6 (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DeLjVMb) with 4MB flash and W2812 RGB LED
+  - [LILYGO T-QT C6 (Aliexpress affiliate link)](https://github.com/mcuw/esp32-t-qt-c6-sdk) with 4 MB flash, touch display, 6-Axis Sensor
+  - [Waveshare ESP32-C6 AMOLED 2.06 (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_c34ka7n1) with 16 MB flash, AMOLED touch display, Wi-Fi 6, BT 5 LE, accelerometer, gyroscope
 
 
 ## Disclaimer
