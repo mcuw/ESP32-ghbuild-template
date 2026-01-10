@@ -92,15 +92,15 @@ Update the [CHANGELOG.md](CHANGELOG.md) file before you are creating a new relea
 Buy on AliExpress (affiliate links) ...
 
 - ESP32
-  - [LILYGO T-Beam (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DBzslDV) with LoRA
+  - [LilyGo T-Beam (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DBzslDV) with LoRA
   - lolin32
   - lolin D32 pro
 - ESP32 S2
 - ESP32 S3 with dual-core processor
-  - [LILYGO T-Display S3 (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DBmOMkn)
-  - [LILYGO T-Display-S3 AMOLED (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DmboYpZ)
-  - [LILYGO T-Display-S3 Touch (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DCBgPlV)
-  - [LILYGO T-Display S3 Long (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_Dl6UVMx)
+  - [LilyGo T-Display S3 (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DBmOMkn)
+  - [LilyGo T-Display-S3 AMOLED (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DmboYpZ)
+  - [LilyGo T-Display-S3 Touch (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DCBgPlV)
+  - [LilyGo T-Display S3 Long (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_Dl6UVMx)
   - [LilyGo T-Watch S3 (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DEZVvH1)
   - [LilyGo T-CameraPlus ESP32-S3 (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_DkytBeT)
   - [LilyGo T-RGB (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_Dem6i0b)
