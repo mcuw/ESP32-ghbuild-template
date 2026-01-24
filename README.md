@@ -52,6 +52,10 @@ git push origin v1.0.0
 
 6. You can find your firmwares under `Releases` after the CI build finished
 
+## Contribution
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute issues, fixes, and patches to this project.
+
 ## GitHub Actions - Workflow
 
 The release build happens in the `build & release` workflow: [build_release.yml](.github/workflows/build_release.yml).
