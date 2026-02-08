@@ -120,6 +120,9 @@ If you want to support this project, you can use these affiliate links ...
   - [LILYGO T-QT C6 (Aliexpress affiliate link)](https://github.com/mcuw/esp32-t-qt-c6-sdk) with 4 MB flash, touch display, 6-Axis Sensor
   - [Waveshare ESP32-C6 AMOLED 2.06 (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_c34ka7n1) with 16 MB flash, AMOLED touch display, Wi-Fi 6, BT 5 LE, accelerometer, gyroscope
 
+- ESP32 P4 with dual-core processor up to 400 MHz
+  - [10.1" ESP32-P4 LCD Display Development Board (Aliexpress affiliate link)](https://s.click.aliexpress.com/e/_c2vAKbXD) with 1280x800 Capacitive Touch Screen, Wi-Fi 6, battery and speaker
+
 
 ## Disclaimer
 
