@@ -23,9 +23,10 @@ This is a project template to create microcontroller apps with automatized firmw
 1. Login to github
 
 2. Click on `Use this template` to create a new git repository
-3. Implement your application in the [src/main.cpp](src/main.cpp)
-4. Comment your new change in the [CHANGELOG.md](CHANGELOG.md) file
-5. Push your changes
+3. Replace the whole content of this [README.md](README.md) file
+4. Implement your application in the [src/main.cpp](src/main.cpp)
+5. Comment your new change in the [CHANGELOG.md](CHANGELOG.md) file
+6. Push your changes
 
 ```sh
 git add .
@@ -50,6 +51,10 @@ git push origin v1.0.0
 ```
 
 6. You can find your firmwares under `Releases` after the CI build finished
+
+## Contribution
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute issues, fixes, and patches to this project.
 
 ## GitHub Actions - Workflow
 
