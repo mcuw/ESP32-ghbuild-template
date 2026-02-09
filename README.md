@@ -65,7 +65,7 @@ Variant B - Visual Studio Code
 
 2. Flash your board
 
-<img src="https://github.com/mcuw/ESP32-ghbuild-template/blob/main/doc/flash-in-vsc.png" />
+<img src="https://github.com/mcuw/ESP32-ghbuild-template/blob/main/doc/flash-with-vsc.png" />
 
 
 ## Contribution
