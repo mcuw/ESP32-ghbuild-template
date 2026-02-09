@@ -52,6 +52,22 @@ git push origin v1.0.0
 
 6. You can find your firmwares under `Releases` after the CI build finished
 
+## How to flash your microcontroller
+
+Variant A - Online and no need to install an app
+- download a `.bin` firmware file from releases then flash with:
+https://mcuw.github.io/ESPConnect/
+
+Variant B - Visual Studio Code
+1. Select a board in Visual Studio Code
+
+<img src="https://github.com/mcuw/ESP32-ghbuild-template/blob/main/doc/choose-board-in-vsc.png" />
+
+2. Flash your board
+
+<img src="https://github.com/mcuw/ESP32-ghbuild-template/blob/main/doc/flash-in-vsc.png" />
+
+
 ## Contribution
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute issues, fixes, and patches to this project.
