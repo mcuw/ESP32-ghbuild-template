@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Set up python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          # Platform Manager espressif32 55.03.35 does not yet support Python 3.14 as of 2026-01
+          # Platform Manager espressif32 55.03.37 does not yet support Python 3.14 as of 2026-04
           python-version: "3.13"
           architecture: "x64"
       - name: Install PlatformIO
