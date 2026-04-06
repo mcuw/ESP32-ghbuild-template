@@ -72,7 +72,17 @@ git commit -am "my app"
 git push -u origin main
 ```
 
-5. Create a new release to trigger a build under `Releases`
+5. Create a new tag to trigger a release, e.g. for v1.0.0
+
+```sh
+git tag v1.0.0
+```
+
+```sh
+git push origin v1.0.0
+```
+
+(do not use `create release` on github)
 
 6. You can find your firmwares under `Releases` after the CI build finished
 
