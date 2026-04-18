@@ -12,11 +12,14 @@
 void setup()
 {
   Serial.begin(115200);
-  // while (!Serial)
-  //   ;
 
-  // Setup sleep wakeup on Touch Pad 0 (GPIO4)
+#ifdef ESP32C6
+#error "This board can not use touch sleep wakeup because it does not have a touch sensor"
+#else
+  // if T0 is not available, you can use any other touch pin, e.g. T1 or T9, but make sure to change the pin number in the touchSleepWakeUpEnable() function below and also adjust the threshold value accordingly
+  /// or use another wake up source, e.g. timer or GPIO, see esp_sleep.h for more details
   touchSleepWakeUpEnable(T0, THRESHOLD);
+#endif /* ESP32C6 */
 
   Serial.println("Going to sleep now");
   Serial.flush();

@@ -11,6 +11,12 @@
 
 #define uS_TO_S_FACTOR 1000000
 
+#ifndef LED_BUILTIN
+#pragma "LED_BUILTIN is not defined. Please define LED_BUILTIN in your board variant file or use an external LED connected to a GPIO pin and update the code accordingly."
+#define LED_BUILTIN 14
+#endif
+
+
 void setup()
 {
   Serial.begin(115200);

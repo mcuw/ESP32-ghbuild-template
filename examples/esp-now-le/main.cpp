@@ -16,6 +16,11 @@
 // this is the boardcast address, change to your receiver MAC
 uint8_t broadcastAddress[] = {0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF};
 
+#ifndef LED_BUILTIN
+#pragma "LED_BUILTIN is not defined. Please define LED_BUILTIN in your board variant file or use an external LED connected to a GPIO pin and update the code accordingly."
+#define LED_BUILTIN 14
+#endif
+
 typedef struct struct_message
 {
   char a[32];
@@ -48,8 +53,6 @@ void OnDataSent(const uint8_t *mac_addr, esp_now_send_status_t status)
 void setup()
 {
   Serial.begin(115200);
-  // while (!Serial)
-  //   ;
 
   pinMode(LED_BUILTIN, OUTPUT);
 
@@ -97,8 +100,12 @@ void setup()
     Serial.println("Error sending the data");
   }
 
+#ifdef ESP32C6
+  #error "This board can not use touch sleep wakeup because it does not have a touch sensor"
+#else
   // Setup sleep wakeup on Touch Pad 0 (GPIO4)
   touchSleepWakeUpEnable(T0, THRESHOLD);
+#endif
 
   Serial.println("Going to sleep now");
   Serial.flush();
