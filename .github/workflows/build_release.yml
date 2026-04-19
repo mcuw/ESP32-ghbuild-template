@@ -9,15 +9,22 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v6
+      # https://github.com/actions/cache
+      - uses: actions/cache@v5
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.platformio/.cache
+          key: ${{ runner.os }}-pio
       - name: Set up python
         uses: actions/setup-python@v6
         with:
           architecture: "x64"
       # https://docs.platformio.org/en/latest/core/history.html
-      - name: Install PlatformIO
-        run: python3 -m pip install platformio==6.1.19
+      - name: Install PlatformIO core
+        run: pip install --upgrade platformio
       - name: Build firmwares
-        run: FIRMWARE_VERSION=${{github.ref_name}} platformio run
+        run: FIRMWARE_VERSION=${{github.ref_name}} pio run
       - name: Archive
         uses: actions/upload-artifact@v7
         with:
