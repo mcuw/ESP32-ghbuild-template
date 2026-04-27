@@ -136,7 +136,9 @@ see [Releases](https://github.com/mcuw/esp-ghbuild-template/releases) on the rig
 
 ## Customize your project
 
-You can reduce and adapt your required boards in the [platformio.ini](platformio.ini).
+You can reduce the firmware build to your dev board with the "default_envs=" configuration.
+
+Or override the boards configs with a new `.ini` file under [extra_connfigs](extra_connfigs/) and import it in the [platformio.ini](platformio.ini).
 
 Update the [CHANGELOG.md](CHANGELOG.md) file before you are creating a new release. By creating a new git tag you trigger a new release which generate for you the firmwares.
 
