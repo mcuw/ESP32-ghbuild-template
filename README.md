@@ -72,17 +72,7 @@ git commit -am "my app"
 git push -u origin main
 ```
 
-5. Create a new tag to trigger a release, e.g. for v1.0.0
-
-```sh
-git tag v1.0.0
-```
-
-```sh
-git push origin v1.0.0
-```
-
-(do not use `create release` on github)
+5. Use "create release" option on github to trigger a firmware build (input a new tag version, e.g. v1.0.0)
 
 6. After the CI build, you can find your firmware files under “Releases”. Files with `.factory.` in the name are meant for the initial flashing via cable. The others are for updates (e.g. OTA) when a factory version is already on the device. The `.factory.` files also include a pre-installed file system, bootloader, partition scheme, and safeboot partition.
 
