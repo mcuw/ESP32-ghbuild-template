@@ -18,35 +18,36 @@ This is a project template to create microcontroller apps with automatized firmw
 
 ## Supported boards
 
-If you want to support this project, you can use these affiliate links ...
+You can use these links to buy a developer board. If you want to support this project then use the affiliate links marked with a *. For you it does not cost more.
+
 
 - ESP32
-  - [LilyGo T-Beam v0.7/ v1.1](https://s.click.aliexpress.com/e/_DBzslDV) (aliexpress affiliate link)
-  - [LilyGo TTGO LORA32 v1.6.1](https://s.click.aliexpress.com/e/_c3WEJk85) (aliexpress affiliate link)
-  - lolin32
-  - lolin D32 pro
+  - [LilyGo T-Beam v0.7/ v1.1](https://s.click.aliexpress.com/e/_DBzslDV)*
+  - [LilyGo TTGO LORA32 v1.6.1](https://s.click.aliexpress.com/e/_c3WEJk85)*
+  - [lolin32](https://www.wemos.cc/en/latest/d32/d32.html)
+  - [lolin D32 pro](https://www.wemos.cc/en/latest/d32/d32_pro.html)
 - ESP32 S2
 - ESP32 S3 with dual-core processor
-  - [LilyGo T-Display S3](https://s.click.aliexpress.com/e/_DBmOMkn) (aliexpress affiliate link)
-  - [LilyGo T-Display-S3 AMOLED](https://s.click.aliexpress.com/e/_DmboYpZ) (aliexpress affiliate link)
-  - [LilyGo T-Display-S3 Touch](https://s.click.aliexpress.com/e/_DCBgPlV) (aliexpress affiliate link)
-  - [LilyGo T-Display S3 Long](https://s.click.aliexpress.com/e/_Dl6UVMx) (aliexpress affiliate link)
-  - [LilyGo T-Watch S3](https://s.click.aliexpress.com/e/_DEZVvH1) (aliexpress affiliate link)
-  - [LilyGo T-CameraPlus ESP32-S3](https://s.click.aliexpress.com/e/_DkytBeT) (aliexpress affiliate link)
-  - [LilyGo T-RGB](https://s.click.aliexpress.com/e/_Dem6i0b) (aliexpress affiliate link)
-  - [LilyGo T-Deck](https://s.click.aliexpress.com/e/_DBPnZmL) (aliexpress affiliate link)
-  - [LilyGo T-Deck Plus](https://s.click.aliexpress.com/e/_DDeskaP) (aliexpress affiliate link)
-  - [Waveshare ESP32-S3 GEEK](https://s.click.aliexpress.com/e/_c35mBhkF) (aliexpress affiliate link)
-  - [Waveshare ESP32-S3 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1) (aliexpress affiliate link) with 16 MB flash, AMOLED touch display, Wi-Fi 5, BT 5 LE, accelerometer, gyroscope
+  - [LilyGo T-Display S3](https://s.click.aliexpress.com/e/_DBmOMkn)*
+  - [LilyGo T-Display-S3 AMOLED](https://s.click.aliexpress.com/e/_DmboYpZ)*
+  - [LilyGo T-Display-S3 Touch](https://s.click.aliexpress.com/e/_DCBgPlV)*
+  - [LilyGo T-Display S3 Long](https://s.click.aliexpress.com/e/_Dl6UVMx)*
+  - [LilyGo T-Watch S3](https://s.click.aliexpress.com/e/_DEZVvH1)*
+  - [LilyGo T-CameraPlus ESP32-S3](https://s.click.aliexpress.com/e/_DkytBeT)*
+  - [LilyGo T-RGB](https://s.click.aliexpress.com/e/_Dem6i0b)*
+  - [LilyGo T-Deck](https://s.click.aliexpress.com/e/_DBPnZmL)*
+  - [LilyGo T-Deck Plus](https://s.click.aliexpress.com/e/_DDeskaP)*
+  - [Waveshare ESP32-S3 GEEK](https://s.click.aliexpress.com/e/_c35mBhkF)*
+  - [Waveshare ESP32-S3 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1)* with 16 MB flash, AMOLED touch display, Wi-Fi 5, BT 5 LE, accelerometer, gyroscope
 
 - ESP32 C6 with WiFi 6 and BT-5 LE
-  - [NanoESP32-C6](https://s.click.aliexpress.com/e/_ooBtUih) (aliexpress affiliate link) with 16MB flash
-  - [ESP32-C6](https://s.click.aliexpress.com/e/_DeLjVMb) (aliexpress affiliate link) with 4MB flash and W2812 RGB LED
-  - [LILYGO T-QT C6](https://github.com/mcuw/esp32-t-qt-c6-sdk) (aliexpress affiliate link) with 4 MB flash, touch display, 6-Axis Sensor
-  - [Waveshare ESP32-C6 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1) (aliexpress affiliate link) with 16 MB flash, AMOLED touch display, Wi-Fi 6, BT 5 LE, accelerometer, gyroscope
+  - [NanoESP32-C6](https://s.click.aliexpress.com/e/_ooBtUih)* with 16MB flash
+  - [ESP32-C6](https://s.click.aliexpress.com/e/_DeLjVMb)* with 4MB flash and W2812 RGB LED
+  - [LILYGO T-QT C6](https://github.com/mcuw/esp32-t-qt-c6-sdk)* with 4 MB flash, touch display, 6-Axis Sensor
+  - [Waveshare ESP32-C6 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1)* with 16 MB flash, AMOLED touch display, Wi-Fi 6, BT 5 LE, accelerometer, gyroscope
 
 - ESP32 P4 with dual-core processor up to 400 MHz
-  - [10.1" ESP32-P4 LCD Display Development Board](https://s.click.aliexpress.com/e/_c2vAKbXD) (aliexpress affiliate link) with 1280x800 Capacitive Touch Screen, Wi-Fi 6, battery and speaker
+  - [10.1" ESP32-P4 LCD Display Development Board](https://s.click.aliexpress.com/e/_c2vAKbXD)* with 1280x800 Capacitive Touch Screen, Wi-Fi 6, battery and speaker
 
 ## Protoyping
 
