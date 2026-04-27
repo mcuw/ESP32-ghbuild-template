@@ -53,3 +53,4 @@ jobs:
         with:
           artifacts: "firmware/*/firmware_*.bin"
           bodyFile: "CHANGELOG.md"
+          allowUpdates: true
