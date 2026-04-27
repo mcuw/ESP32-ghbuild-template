@@ -91,7 +91,7 @@ Variant A - Online and no need to install an app
 https://mcuw.github.io/ESPConnect/
 
 Variant B - Visual Studio Code
-1. Select a board in Visual Studio Code
+1. Select a board in Visual Studio Code. `Default` env builds all boards.
 
 <img src="https://github.com/mcuw/ESP32-ghbuild-template/blob/main/doc/choose-board-in-vsc.png" />
 
