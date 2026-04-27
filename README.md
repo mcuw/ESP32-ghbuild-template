@@ -48,6 +48,13 @@ If you want to support this project, you can use these affiliate links ...
 - ESP32 P4 with dual-core processor up to 400 MHz
   - [10.1" ESP32-P4 LCD Display Development Board](https://s.click.aliexpress.com/e/_c2vAKbXD) (aliexpress affiliate link) with 1280x800 Capacitive Touch Screen, Wi-Fi 6, battery and speaker
 
+## Protoyping
+
+If you are new to the Arduino world then play around with free online simulators before you create a new repository or soldering. Deep dive into the arduino programming.
+
+- [Cirkit designer](https://app.cirkitdesigner.com/)
+- [Wokwi](https://wokwi.com/esp32)
+
 ## Get Started
 
 <img src="https://github.com/mcuw/ESP32-ghbuild-template/blob/main/doc/create-new-project-with-template.png" />
