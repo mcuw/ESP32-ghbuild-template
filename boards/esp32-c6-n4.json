@@ -15,7 +15,8 @@
   },
   "connectivity": [
     "wifi",
-    "bluetooth"
+    "bluetooth",
+    "openthread"
   ],
   "frameworks": [
     "arduino",
