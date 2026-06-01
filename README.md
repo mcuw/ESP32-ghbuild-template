@@ -53,7 +53,7 @@ You can use these links to buy a developer board. If you want to support this pr
 
 ## Protoyping
 
-If you are new to the Arduino world then play around with free online simulators before you create a new repository or soldering. Deep dive into the arduino programming.
+If you are new to the Arduino world then play around with free online simulators before you create a new repository or soldering. After that deep dive by using this template for your professioal arduino projects.
 
 - [Wokwi](https://wokwi.com/esp32)
 - [Cirkit designer](https://app.cirkitdesigner.com/)
