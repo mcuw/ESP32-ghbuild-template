@@ -37,7 +37,7 @@ You can use these links to buy a developer board. If you want to support this pr
   - [LilyGo](https://lilygo.cc/) [T-RGB](https://s.click.aliexpress.com/e/_Dem6i0b)*
   - [LilyGo](https://lilygo.cc/) [T-Deck](https://s.click.aliexpress.com/e/_DBPnZmL)*
   - [LilyGo](https://lilygo.cc/) [T-Deck Plus](https://s.click.aliexpress.com/e/_DDeskaP)*
-  - [LilyGo](https://lilygo.cc/) [T3-S3](https://s.click.aliexpress.com/e/_c3o28ou9)*
+  - [LilyGo](https://lilygo.cc/) [T3-S3](https://s.click.aliexpress.com/e/_c3o28ou9)* LoRa 2.4 GHz
   - [Waveshare](https://www.waveshare.com/) [ESP32-S3 GEEK](https://s.click.aliexpress.com/e/_c35mBhkF)*
   - [Waveshare](https://www.waveshare.com/) [ESP32-S3 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1)* with 16 MB flash, AMOLED touch display, Wi-Fi 5, BT 5 LE, accelerometer, gyroscope
 
