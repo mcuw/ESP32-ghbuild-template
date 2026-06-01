@@ -44,7 +44,7 @@ You can use these links to buy a developer board. If you want to support this pr
 - ESP32 C6 with WiFi 6 and BT-5 LE
   - [NanoESP32-C6](https://s.click.aliexpress.com/e/_ooBtUih)* with 16MB flash
   - [UICPAL ESP32-C6](https://s.click.aliexpress.com/e/_DeLjVMb)* with 4MB flash and W2812 RGB LED
-  - [LilyGo](https://lilygo.cc/) T-QT C6 [SDK](https://github.com/mcuw/esp32-t-qt-c6-sdk) with 4 MB flash, touch display, 6-Axis Sensor
+  - [LilyGo](https://lilygo.cc/) [T-QT C6](https://lilygo.cc/products/t-qt-c6) Ring [SDK](https://github.com/mcuw/esp32-t-qt-c6-sdk) with 4 MB flash, touch display, 6-Axis Sensor
   - [Waveshare](https://www.waveshare.com/) [ESP32-C6 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1)* Watch with 16 MB flash, AMOLED touch display, Wi-Fi 6, BT 5 LE, accelerometer, gyroscope
 
 - ESP32 P4 with dual-core processor up to 400 MHz
