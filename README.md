@@ -22,8 +22,8 @@ You can use these links to buy a developer board. If you want to support this pr
 
 
 - ESP32
-  - [LilyGo](https://lilygo.cc/) [T-Beam v0.7/ v1.1](https://s.click.aliexpress.com/e/_DBzslDV)*
-  - [LilyGo](https://lilygo.cc/) [TTGO LORA32 v1.6.1](https://s.click.aliexpress.com/e/_c3WEJk85)*
+  - [LilyGo](https://lilygo.cc/) [T-Beam v0.7/ v1.1](https://s.click.aliexpress.com/e/_DBzslDV)* GPS
+  - [LilyGo](https://lilygo.cc/) [TTGO LORA32 v1.6.1](https://s.click.aliexpress.com/e/_c3WEJk85)* LoRA
   - [lolin32](https://www.wemos.cc/en/latest/d32/d32.html)
   - [lolin D32 pro](https://www.wemos.cc/en/latest/d32/d32_pro.html)
 - ESP32 S2
@@ -39,7 +39,7 @@ You can use these links to buy a developer board. If you want to support this pr
   - [LilyGo](https://lilygo.cc/) [T-Deck Plus](https://s.click.aliexpress.com/e/_DDeskaP)*
   - [LilyGo](https://lilygo.cc/) [T3-S3](https://s.click.aliexpress.com/e/_c3o28ou9)* LoRa 2.4 GHz
   - [Waveshare](https://www.waveshare.com/) [ESP32-S3 GEEK](https://s.click.aliexpress.com/e/_c35mBhkF)*
-  - [Waveshare](https://www.waveshare.com/) [ESP32-S3 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1)* with 16 MB flash, AMOLED touch display, Wi-Fi 5, BT 5 LE, accelerometer, gyroscope
+  - [Waveshare](https://www.waveshare.com/) [ESP32-S3 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1)* Watch with 16 MB flash, AMOLED touch display, Wi-Fi 5, BT 5 LE, accelerometer, gyroscope
 
 - ESP32 C6 with WiFi 6 and BT-5 LE
   - [NanoESP32-C6](https://s.click.aliexpress.com/e/_ooBtUih)* with 16MB flash
