@@ -48,8 +48,8 @@ You can use these links to buy a developer board. If you want to support this pr
 
 - ESP32 P4 with dual-core processor up to 400 MHz
   - [10.1" ESP32-P4 LCD Display Development Board](https://s.click.aliexpress.com/e/_c2vAKbXD)* with 1280x800 Capacitive Touch Screen, Wi-Fi 6, battery and speaker
-  - [JC-ESP32P4-M3-DEV](https://s.click.aliexpress.com/e/_c39YU9i9)* GUITION ESP32-P4 with ESP32-C6 Mini, Wi-Fi 6, Ethernet, TF card slot, Speaker header, Li-Ion Battery connector, microphone
-  - [C4880P443C-I-W-Y](https://s.click.aliexpress.com/e/_c4TfKXmd)* GUITION ESP32-P4 with ESP32-C6, 4.3 inch 480 * 800 IPS capacitive touch, 2MP camera module, Wi-Fi 6, Ethernet, TF card slot, Speaker header, Li-Ion Battery connector, BT 5
+  - [JC-ESP32P4-M3-DEV](https://s.click.aliexpress.com/e/_c39YU9i9)* [GUITION](https://www.guition.com/) ESP32-P4 with ESP32-C6 Mini, Wi-Fi 6, Ethernet, TF card slot, Speaker header, Li-Ion Battery connector, microphone
+  - [C4880P443C-I-W-Y](https://s.click.aliexpress.com/e/_c4TfKXmd)* [GUITION](https://www.guition.com/) ESP32-P4 with ESP32-C6, 4.3 inch 480 * 800 IPS capacitive touch, 2MP camera module, Wi-Fi 6, Ethernet, TF card slot, Speaker header, Li-Ion Battery connector, BT 5
 
 ## Protoyping
 
