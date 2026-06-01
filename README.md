@@ -158,6 +158,8 @@ see [Releases](https://github.com/mcuw/esp-ghbuild-template/releases) on the rig
 
 ## Disclaimer
 
+Please support by donation a coffee: [buymeacoffee](https://buymeacoffee.com/vuongngo)
+
 Contribution and help - if you find an issue or wants to contribute then please do not hesitate to create a pull request or an issue.
 
 We provide our build template as is, and we make no promises or guarantees about this code.
