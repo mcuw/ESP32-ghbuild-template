@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a project template to create microcontroller apps with automatized firmware builds for [ESP32](https://www.espressif.com/en/products/socs/esp32), [ESP32-S2](https://www.espressif.com/en/products/socs/esp32-s2), [ESP32-S3](https://www.espressif.com/en/products/socs/esp32-s3), [ESP32-C6](https://www.espressif.com/en/products/socs/esp32-c6), [ESP32-H2](https://www.espressif.com/en/products/socs/esp32-h2) and [ESP32-P4](https://www.espressif.com/en/products/socs/esp32-p4) microcontroller boards. It uses for that [GitHub Actions](https://github.com/features/actions) and [pioarduino](#pioarduino) (for old boards [platformio](#platformio)). Use this repository as a template for your own esp32 projects.
+This is a project template to create microcontroller apps with automated firmware builds for [ESP32](https://www.espressif.com/en/products/socs/esp32), [ESP32-S2](https://www.espressif.com/en/products/socs/esp32-s2), [ESP32-S3](https://www.espressif.com/en/products/socs/esp32-s3), [ESP32-C6](https://www.espressif.com/en/products/socs/esp32-c6), [ESP32-H2](https://www.espressif.com/en/products/socs/esp32-h2) and [ESP32-P4](https://www.espressif.com/en/products/socs/esp32-p4) microcontroller boards. It uses [GitHub Actions](https://github.com/features/actions) and [pioarduino](#pioarduino) (for old boards [platformio](#platformio)). Use this repository as a template for your own ESP32 projects. If you like this template then please support by giving a star to this repository.
 
 ## Features
 
@@ -37,6 +37,7 @@ You can use these links to buy a developer board. If you want to support this pr
   - [LilyGo](https://lilygo.cc/) [T-RGB](https://s.click.aliexpress.com/e/_Dem6i0b)*
   - [LilyGo](https://lilygo.cc/) [T-Deck](https://s.click.aliexpress.com/e/_DBPnZmL)*
   - [LilyGo](https://lilygo.cc/) [T-Deck Plus](https://s.click.aliexpress.com/e/_DDeskaP)*
+  - [LilyGo](https://lilygo.cc/) [T3-S3](https://s.click.aliexpress.com/e/_c3o28ou9)*
   - [Waveshare](https://www.waveshare.com/) [ESP32-S3 GEEK](https://s.click.aliexpress.com/e/_c35mBhkF)*
   - [Waveshare](https://www.waveshare.com/) [ESP32-S3 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1)* with 16 MB flash, AMOLED touch display, Wi-Fi 5, BT 5 LE, accelerometer, gyroscope
 
@@ -150,3 +151,5 @@ Update the [CHANGELOG.md](CHANGELOG.md) file before you are creating a new relea
 Contribution and help - if you find an issue or wants to contribute then please do not hesitate to create a pull request or an issue.
 
 We provide our build template as is, and we make no promises or guarantees about this code.
+
+
