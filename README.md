@@ -1,5 +1,7 @@
 # ESP32 project template
 
+<img src="doc/hero_1024.webp" alt="ESP32 Hero Image" width="1024" />
+
 ## Description
 
 This is a project template to create microcontroller apps with automated firmware builds for [ESP32](https://www.espressif.com/en/products/socs/esp32), [ESP32-S2](https://www.espressif.com/en/products/socs/esp32-s2), [ESP32-S3](https://www.espressif.com/en/products/socs/esp32-s3), [ESP32-C6](https://www.espressif.com/en/products/socs/esp32-c6), [ESP32-H2](https://www.espressif.com/en/products/socs/esp32-h2) and [ESP32-P4](https://www.espressif.com/en/products/socs/esp32-p4) microcontroller boards. It uses [GitHub Actions](https://github.com/features/actions) and [pioarduino](#pioarduino) (for old boards [platformio](#platformio)). Use this repository as a template for your own ESP32 projects. If you like this template then please support by giving a star to this repository.
