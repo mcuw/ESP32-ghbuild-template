@@ -62,7 +62,7 @@ You can use these links to buy a developer board. If you want to support this pr
   - [GUITION](https://www.guition.com/) [JC-ESP32P4-M3-DEV](https://s.click.aliexpress.com/e/_c39YU9i9)* ESP32-P4 with ESP32-C6 Mini, Wi-Fi 6, Ethernet, TF card slot, Speaker header, Li-Ion Battery connector, microphone
   - [GUITION](https://www.guition.com/) [C4880P443C-I-W-Y](https://s.click.aliexpress.com/e/_c4TfKXmd)* ESP32-P4 with ESP32-C6, 4.3 inch 480 * 800 IPS capacitive touch, 2MP camera module, Wi-Fi 6, Ethernet, TF card slot, Speaker header, Li-Ion Battery connector, BT 5
 
-## Protoyping
+## Prototyping
 
 If you are new to the Arduino world then play around with free online simulators before you create a new repository or soldering. After that deep dive by using this template for your professioal arduino projects.
 
