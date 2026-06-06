@@ -33,7 +33,7 @@ You can use these links to buy a developer board. If you want to support this pr
 
 - ESP32
   - [LilyGo](https://lilygo.cc/) [T-Beam v0.7/ v1.1](https://s.click.aliexpress.com/e/_DBzslDV)* GPS
-  - [LilyGo](https://lilygo.cc/) [TTGO LORA32 v1.6.1](https://s.click.aliexpress.com/e/_c3WEJk85)* LoRA
+  - [LilyGo](https://lilygo.cc/) [TTGO LORA32 v1.6.1](https://s.click.aliexpress.com/e/_c3WEJk85)* LoRa
   - [lolin32](https://www.wemos.cc/en/latest/d32/d32.html)
   - [lolin D32 pro](https://www.wemos.cc/en/latest/d32/d32_pro.html)
 - ESP32 S2
