@@ -100,12 +100,8 @@ void setup()
     Serial.println("Error sending the data");
   }
 
-#ifdef ESP32C6
-  #error "This board can not use touch sleep wakeup because it does not have a touch sensor"
-#else
   // Setup sleep wakeup on Touch Pad 0 (GPIO4)
   touchSleepWakeUpEnable(T0, THRESHOLD);
-#endif
 
   Serial.println("Going to sleep now");
   Serial.flush();
