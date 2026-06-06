@@ -139,7 +139,7 @@ If you want to test the build on all merge w/o creating a tag then the `build` w
 </details>
 
 <details>
-<summary><h3>Platformio</h3></summary>
+<summary><h3>PlatformIO</h3></summary>
 
 [PlatformIO](https://platformio.org/) is a tool to create microcontroller apps for arduino platforms and compatibles (esp32). You can install the [Visual Studio Code extension](https://platformio.org/install/ide?install=vscode) in the [Visual Studio Code](https://code.visualstudio.com/) IDE.
 </details>
