@@ -12,13 +12,9 @@ This is a project template to create microcontroller apps with automated firmwar
 - Supports multiple firmwares builds with github actions
 - Example code
 
-## ⭐ Stargazers
+## ⭐ Star History
 
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mcuw/ESP32-ghbuild-template&type=Date)](https://star-history.com/#mcuw/ESP32-ghbuild-template&Date)
-
-</div>
+[![Star History Chart](https://api.star-history.com/chart?repos=mcuw/ESP32-ghbuild-template&type=date&legend=top-left&sealed_token=sGHoZd4S3PMZTkcpq3YJc4RCmy7YsphG-gi0nvcEzG0ol1d9ftwE68uvpo0ECjDF1aLO-DXwl7ZlJi08d3JtD7WvpcNe6_ZrRWaU9EZPKjYQJQXuQG1dMa-A4nSu3fLNHCy4hbL-2wlQKfwbKAtrgdp8c8F6uocahoXStBe0R19O0c3E3xMS_M7npoPt)](https://www.star-history.com/?type=date&repos=mcuw%2FESP32-ghbuild-template)
 
 ## Prerequisites
 
